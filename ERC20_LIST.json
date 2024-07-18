@@ -4773,6 +4773,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB": {
+        "address": "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB",
+        "name": "Lodestar",
+        "decimals": 18,
+        "symbol": "LODE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/lode.svg"
       }
     }
   }
